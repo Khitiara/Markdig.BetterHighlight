@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdig.BetterHighlight", "Markdig.BetterHighlight\Markdig.BetterHighlight.csproj", "{5B1A7DA8-E06C-462A-A8EA-8CB08CCF562B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7B35A33E-CC15-4B72-A145-9FCC71AE83D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1A7DA8-E06C-462A-A8EA-8CB08CCF562B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1A7DA8-E06C-462A-A8EA-8CB08CCF562B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1A7DA8-E06C-462A-A8EA-8CB08CCF562B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1A7DA8-E06C-462A-A8EA-8CB08CCF562B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B35A33E-CC15-4B72-A145-9FCC71AE83D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B35A33E-CC15-4B72-A145-9FCC71AE83D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B35A33E-CC15-4B72-A145-9FCC71AE83D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B35A33E-CC15-4B72-A145-9FCC71AE83D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
